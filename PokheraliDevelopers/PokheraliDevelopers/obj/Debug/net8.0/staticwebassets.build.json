@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "ZxOYlq/8GkeX+hdGoFjQRYjbeaSrN4/ds4eKP8js3Sw=",
+  "Source": "PokheraliDevelopers",
+  "BasePath": "_content/PokheraliDevelopers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PokheraliDevelopers\\wwwroot",
+      "Source": "PokheraliDevelopers",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\wwwroot\\",
+      "BasePath": "_content/PokheraliDevelopers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

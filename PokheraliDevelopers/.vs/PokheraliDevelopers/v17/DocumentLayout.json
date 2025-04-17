@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\databasehandler\\databasehandlerefcoreexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\databasehandler\\databasehandlerefcoreexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250416143206_book-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250416143206_book-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\pokheralidevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250415035055_tablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250415035055_tablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\pokheralidevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\dto\\credentialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\credentialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\c#\\development\\pokheralidevelopers\\pokheralidevelopers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\AuthService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:09:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250416143206_book-create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:32:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:16:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\FileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\FileService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:15:47.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:14:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\BookDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\BookDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:13:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Book.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Book.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:13:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PokheraliDevelopers.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeToolTip": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T14:12:56.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250415035055_tablecreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:50:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PokheraliDevelopers",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeToolTip": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T03:42:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CredentialDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:37:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:33:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\appsettings.json",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\appsettings.json",
+              "RelativeToolTip": "PokheraliDevelopers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T03:16:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Program.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\Program.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:15:06.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHandlerEFCoreExample.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\DatabaseHandler\\DatabaseHandlerEFCoreExample.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\DatabaseHandler\\DatabaseHandlerEFCoreExample.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\C#\\Development\\PokheraliDevelopers\\PokheraliDevelopers\\DatabaseHandler\\DatabaseHandlerEFCoreExample.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\DatabaseHandler\\DatabaseHandlerEFCoreExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:06:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
