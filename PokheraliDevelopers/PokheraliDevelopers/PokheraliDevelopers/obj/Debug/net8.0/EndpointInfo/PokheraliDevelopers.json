@@ -1928,6 +1928,7 @@
             "type": "string",
             "nullable": true
           },
+<<<<<<< HEAD
           "totalAmount": {
             "type": "number",
             "format": "double"
@@ -2336,6 +2337,11 @@
           "quantity": {
             "type": "integer",
             "format": "int32"
+=======
+          "phoneNumber": {
+            "type": "string",
+            "nullable": true
+>>>>>>> 70b8483259c9c9e6f32724ef5545d77bef8e3a60
           }
         },
         "additionalProperties": false

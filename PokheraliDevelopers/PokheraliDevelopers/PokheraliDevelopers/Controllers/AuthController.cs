@@ -12,19 +12,56 @@ using PokheraliDevelopers.Models;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly RoleManager<IdentityRole> _roleManager;
 
+<<<<<<< HEAD
         public AuthController(
             UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
             RoleManager<IdentityRole> roleManager)
+=======
+    [Authorize(Roles ="something, Admin, Staff, Member")]
+    [HttpGet("users")]
+    public IActionResult GetAllUsers()
+    {
+        var users = _userManager.Users.Select(u => new { u.Id, u.Email });
+        return Ok(users);
+    }
+
+    // Update your Register method in AuthController
+    [HttpPost("register")]
+    public async Task<IActionResult> Register([FromBody] CredentialDto model)
+    {
+        var user = new IdentityUser
+        {
+            UserName = model.Email,
+            Email = model.Email,
+            PhoneNumber = model.PhoneNumber
+        };
+
+        var result = await _userManager.CreateAsync(user, model.Password);
+        if (result.Succeeded)
+>>>>>>> 70b8483259c9c9e6f32724ef5545d77bef8e3a60
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _roleManager = roleManager;
         }
+<<<<<<< HEAD
 
         [Authorize(Roles = "something, Admin, Staff, Member")]
         [HttpGet("users")]
         public IActionResult GetAllUsers()
+=======
+        return BadRequest(result.Errors);
+    }
+
+    [HttpPost("register-something")]
+    public async Task<IActionResult> RegisterAsSomething([FromBody] CredentialDto model)
+    {
+        var user = new IdentityUser { UserName = model.Email, Email = model.Email };
+        var result = await _userManager.CreateAsync(user, model.Password);
+
+        if (result.Succeeded)
+>>>>>>> 70b8483259c9c9e6f32724ef5545d77bef8e3a60
         {
             var users = _userManager.Users.Select(u => new { u.Id, u.Email });
             return Ok(users);

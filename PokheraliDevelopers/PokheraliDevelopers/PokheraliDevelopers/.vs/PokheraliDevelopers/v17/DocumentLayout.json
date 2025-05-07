@@ -1,0 +1,796 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\claimcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\claimcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\bookmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\bookmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\databasehandler\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\databasehandler\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\databasehandlerefcoreexamplemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\databasehandlerefcoreexamplemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\model\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\model\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250506153604_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250506153604_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250416143206_book-create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250416143206_book-create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250415035055_tablecreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250415035055_tablecreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\controllers\\annoucementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\controllers\\annoucementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250506153604_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250506153604_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\credentialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\credentialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\dto\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\dto\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\pokheralidevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250416143206_book-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250416143206_book-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\pokheralidevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250415035055_tablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250415035055_tablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250506172731_carttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250506172731_carttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|c:\\users\\asus\\onedrive\\desktop\\test\\pokheralidevelopers\\pokheralidevelopers\\pokheralidevelopers\\migrations\\20250506160451_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5AA79-2728-4BD5-8018-E137BD08D037}|PokheraliDevelopers\\PokheraliDevelopers.csproj|solutionrelative:pokheralidevelopers\\migrations\\20250506160451_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimCode.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\ClaimCode.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\ClaimCode.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\ClaimCode.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\ClaimCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:38:01.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250506172731_carttable.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506172731_carttable.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250506172731_carttable.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506172731_carttable.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250506172731_carttable.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:27:31.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAwwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:24:45.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\CartService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\CartService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\CartService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:24:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CartDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:23:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\CartItem.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\CartItem.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:23:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "12922cd4-f37f-4058-8ea3-603dad5206ac.jpg - Bitmap [38x50, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg - Bitmap [38x50, 24 bit, JPG]",
+              "RelativeToolTip": "PokheraliDevelopers\\uploads\\books\\12922cd4-f37f-4058-8ea3-603dad5206ac.jpg - Bitmap [38x50, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-06T16:37:36.669Z",
+              "EditorCaption": " - Bitmap [38x50, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250506160451_table.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506160451_table.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250506160451_table.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506160451_table.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250506160451_table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:04:51.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250506153604_tables.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506153604_tables.Designer.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250506153604_tables.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506153604_tables.Designer.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250506153604_tables.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:57:47.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250416143206_book-create.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.Designer.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.Designer.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:57:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250415035055_tablecreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.Designer.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.Designer.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:57:18.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:54:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250506153604_tables.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506153604_tables.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250506153604_tables.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250506153604_tables.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250506153604_tables.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:36:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:18:53.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\EmailService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\EmailService.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAQwN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:04:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AnnoucementsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AnnoucementsController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\AnnoucementsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AnnoucementsController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\AnnoucementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:02:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:01:20.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookmarksController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookmarksController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\BookmarksController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookmarksController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\BookmarksController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:59:43.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAcwPQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:17:28.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderItemResponseDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\OrderItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderItemResponseDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\OrderItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:11:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderResponseDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:10:36.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderItemDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:09:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:07:24.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\ReviewDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:06:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDetailDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\BookDetailDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDetailDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\BookDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:06:02.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookResponseDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\BookResponseDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookResponseDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\BookResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:03:27.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Announcement.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Announcement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Announcement.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Announcement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vx8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:02:25.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\OrderItem.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:00:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Order.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Order.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIAwwDcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:59:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bookmark.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Bookmark.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Bookmark.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Bookmark.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Bookmark.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:58:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:58:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Review.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Review.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Review.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:56:35.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatabaseHandlerEfCoreExampleModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\DatabaseHandlerEfCoreExampleModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\DatabaseHandlerEfCoreExampleModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\DatabaseHandlerEfCoreExampleModelSnapshot.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\DatabaseHandlerEfCoreExampleModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:35:12.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\AuthService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:09:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250416143206_book-create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250416143206_book-create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:32:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UploadsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\UploadsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:16:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Service\\FileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Service\\FileService.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Service\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:15:47.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:14:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\BookDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\BookDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\BookDto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:13:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Model\\Book.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Model\\Book.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:13:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PokheraliDevelopers.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeToolTip": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T14:12:56.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250415035055_tablecreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Migrations\\20250415035055_tablecreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:50:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PokheraliDevelopers",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "RelativeToolTip": "PokheraliDevelopers\\PokheraliDevelopers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T03:42:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CredentialDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Dto\\CredentialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:37:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:33:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\appsettings.json",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\appsettings.json",
+              "RelativeToolTip": "PokheraliDevelopers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T03:16:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Program.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\Program.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:15:06.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\DatabaseHandler\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PokheraliDevelopers\\DatabaseHandler\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Test\\PokheraliDevelopers\\PokheraliDevelopers\\PokheraliDevelopers\\DatabaseHandler\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PokheraliDevelopers\\DatabaseHandler\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:06:23.307Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
