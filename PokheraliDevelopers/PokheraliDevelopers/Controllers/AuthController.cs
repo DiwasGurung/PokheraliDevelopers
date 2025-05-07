@@ -24,17 +24,22 @@ public class AuthController : ControllerBase
         return Ok(users);
     }
 
+    // Update your Register method in AuthController
     [HttpPost("register")]
     public async Task<IActionResult> Register([FromBody] CredentialDto model)
     {
-        var user = new IdentityUser { UserName = model.Email, Email = model.Email };
-        var result = await _userManager.CreateAsync(user, model.Password);
+        var user = new IdentityUser
+        {
+            UserName = model.Email,
+            Email = model.Email,
+            PhoneNumber = model.PhoneNumber
+        };
 
+        var result = await _userManager.CreateAsync(user, model.Password);
         if (result.Succeeded)
         {
             return Ok("User registered successfully.");
         }
-
         return BadRequest(result.Errors);
     }
 
